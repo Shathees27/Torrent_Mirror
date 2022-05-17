@@ -1,6 +1,6 @@
 # Torrent_Mirror
 
-owner of this repo :- [Toxic](https://github.com/toxictg)
+owner of this repo :- [Toxic](https://github.com/Shathees27/Torrent_Mirror)
 
 contact me :- [SIVA](https://t.me/Sivapk1)
 
